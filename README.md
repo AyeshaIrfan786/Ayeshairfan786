@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ayesha Irfan</h1>
 <h3 align="center">A Passionate Python Developer and Aspiring Ai Engineer</h3>
 
-- 🔭 I’m currently working on *projects*
+- 🔭 I’m currently working on **projects**
 
-- 🌱 I’m currently learning *to contribute to Open Source Projects*
+- 🌱 I’m currently learning **to contribute to Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AyeshaIrfan786](https://github.com/AyeshaIrfan786)
 
-- 💬 Ask me about *Python,Javascript,C++,Html,Css*
+- 💬 Ask me about **Python,Javascript,C++,Html,Css**
 
-- 📫 How to reach me *aishairfan017@gmail.com*
-- 
-- ⚡ Fun fact *I create cool things*
+- 📫 How to reach me **aishairfan017@gmail.com**
+
+- ⚡ Fun fact **I create cool things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
