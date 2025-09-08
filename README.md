@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayesha Irfan</h1>
-<h3 align="center">A Passionate Python Developer and Aspiring Ai Engineer</h3>
+<h3 align="center">A Passionate Front-End Developer and Aspiring Ai Engineer</h3>
 
 - 🔭 I’m currently working on **projects**
 
